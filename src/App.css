@@ -1,0 +1,31 @@
+.app-container {
+  padding: 20px;
+}
+
+.recipe-input,
+.add-recipe-btn {
+  margin: 5px 0;
+}
+
+.recipe-details-input {
+  width: 100%;
+  height: 100px;
+  margin: 5px 0;
+  padding: 5px;
+}
+
+.recipe-list {
+  list-style: none;
+  padding: 0;
+}
+
+.recipe-item {
+  cursor: pointer;
+  background-color: lightgray;
+  margin: 5px 0;
+  padding: 5px;
+}
+
+.recipe-item:hover {
+  background-color: lightgreen;
+}
